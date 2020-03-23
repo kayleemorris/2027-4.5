@@ -1,0 +1,29 @@
+.correct{
+  background:lime;
+}
+
+.incorrect{
+  background:red;
+}
+
+body{
+  background: white;
+  font-family: "Times New Roman", Times, serif;
+  color: pink;
+  
+  background-image: url("https://shanicesmith.files.wordpress.com/2013/05/webquest.png");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  
+  background-image: url("https://shanicesmith.files.wordpress.com/2013/05/webquest.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
